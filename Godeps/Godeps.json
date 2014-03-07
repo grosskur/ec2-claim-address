@@ -1,0 +1,14 @@
+{
+	"ImportPath": "github.com/grosskur/ec2-claim-address",
+	"GoVersion": "go1.2.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/crowdmob/goamz/aws",
+			"Rev": "26c9d18f01319c2e192dca8ac8dcd9e7cde01f60"
+		},
+		{
+			"ImportPath": "github.com/crowdmob/goamz/ec2",
+			"Rev": "26c9d18f01319c2e192dca8ac8dcd9e7cde01f60"
+		}
+	]
+}
